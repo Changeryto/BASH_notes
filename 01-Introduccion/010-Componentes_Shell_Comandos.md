@@ -18,4 +18,16 @@ BASH es la que se tratará en este curso.
 La idea es ejecutar programas de manera secuencial, con la idea de automatizar una tarea específica atravez de rutinas, funciones, palabras reservadas y sentencias para llegar a un objetivo final.
  Estos comandos colocados en un script y ejecutados por el usuario.
 
+## Verificar que el nombre del script es único en el OS.
 
+Esto se realiza con:
+
+```sh
+type {{ nombre_del_script }}
+```
+
+## Cambiar las variables globales
+
+```sh
+sudo vim /etc/profile
+```
