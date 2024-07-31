@@ -39,3 +39,10 @@ sudo vim /etc/profile
 - $# : Contado de argumentos
 - $* : Refiere a todos los argumentos.
 
+## ¿Cómo realizar la sustitución de comandos en variables?
+
+La idea de la sustitución de comandos en variables es almacenar la salida de una ejecución de un comando en una variable. Se puede realizar:
+
+- Usando el backtick caracter (`)
+- Usando el signo de dólar con el formato $(comdando)
+
