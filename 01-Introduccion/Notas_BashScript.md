@@ -46,3 +46,9 @@ La idea de la sustitución de comandos en variables es almacenar la salida de un
 - Usando el backtick caracter (`)
 - Usando el signo de dólar con el formato $(comdando)
 
+## ¿Cómo realizar el debug de un script?
+
+Hay 2 opciones para realizar el debug usando el comando bash.
+
+- -v .- Usado para ver el resultado detallado de nuestro script, evaluado línea por línea.
+- -x .- Usado para ver desplegar la información, capturando el comando y no su salida.
