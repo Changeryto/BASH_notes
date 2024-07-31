@@ -31,3 +31,11 @@ type {{ nombre_del_script }}
 ```sh
 sudo vim /etc/profile
 ```
+
+## ¿Cómo ejecutar un script con argumentos?
+
+- $0 : El nombre del script
+- $1 al ${10} : El número de argumento, si son más de un digito se usan llaves.
+- $# : Contado de argumentos
+- $* : Refiere a todos los argumentos.
+
