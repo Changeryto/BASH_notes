@@ -1,4 +1,4 @@
-# !usr/bin/env bash
+#!/usr/bin/env bash
 # Programa para ejemplificar el paso de argumentos.
 # Autor Ruben Tellez Gerardo
 

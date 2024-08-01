@@ -1,4 +1,4 @@
-# !usr/bin/env
+#!/usr/bin/env
 # Programa para verificar la declaración de variables.
 
 # El alcance de las variables de un srcipt está limitado al proceso que lo crea. A menos que se use la palabra reservada export.

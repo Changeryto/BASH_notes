@@ -1,4 +1,4 @@
-# !usr/bin/env bash
+#!/usr/bin/env bash
 # Programa para revisar cómo ejecutar comandos dentro de un programa y almacenar en una variable para su posterior uso.
 # Autor: Rubén Téllez Gerardo -rubentellezgerardo@aol.com
 

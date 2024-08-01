@@ -1,4 +1,4 @@
-# !usr/bin/env
+#!/usr/bin/env
 # Programa para revisar los tipos de operadores.
 # Autor: Rubén Téllez Gerardo -rubentellezgerardo@aol.com
 
