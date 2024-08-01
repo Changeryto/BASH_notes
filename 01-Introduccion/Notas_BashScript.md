@@ -52,3 +52,11 @@ Hay 2 opciones para realizar el debug usando el comando bash.
 
 - -v .- Usado para ver el resultado detallado de nuestro script, evaluado línea por línea.
 - -x .- Usado para ver desplegar la información, capturando el comando y no su salida.
+
+
+## ¿Cómo capturar la información del usuario?
+
+Se usa el comando read de 2 maneras.
+
+- Utilizado en conjunto con el comando echo.
+- Utilizado directamente en el comando read.
