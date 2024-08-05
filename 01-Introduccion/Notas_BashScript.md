@@ -90,3 +90,17 @@ fi
 ```
 
 La condición usa operadores lógicos y operadores condicionales.
+
+## ¿Cómo usar sentencias if anidadas?
+
+```sh
+if [ condition ]; then
+    if [ condition ]; then
+        statement 1
+    else
+        statement 2
+else 
+    statement 3
+fi
+```
+

@@ -7,6 +7,7 @@ echo "Opcion 1 enviada: $1"
 echo "Opcion 2 enviada: $2"
 echo "Opcion 3 enviada: $3"
 echo "Opciones enviadas: $*"
+echo "$# options enviadas"
 
 echo -e "\n"
 echo "Recuperar valores"
