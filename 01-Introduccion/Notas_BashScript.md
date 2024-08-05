@@ -113,3 +113,10 @@ opcion2)
     statement 2;;
 esac
 ```
+
+## ¿Cómo usar arreglos?
+
+- Una variable con varios elementos.
+- Para crear un arreglo se debe colocar los elementos dentoro de paréntesis con cada elemento separado por espacio o coma según el tipo de dato, o usar rangos.
+- El índice de un arreglo comienza en 0.
+- Para remover los elementos de un arreglo se usa el comando `sh unset arreglo[posocion]`
