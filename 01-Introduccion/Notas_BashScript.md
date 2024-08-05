@@ -103,4 +103,13 @@ else
     statement 3
 fi
 ```
+## ¿Cómo usar la sentencia case?
 
+```sh
+case expression in
+opcion1)
+    statement 1;;
+opcion2)
+    statement 2;;
+esac
+```
