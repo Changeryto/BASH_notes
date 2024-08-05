@@ -120,3 +120,18 @@ esac
 - Para crear un arreglo se debe colocar los elementos dentoro de paréntesis con cada elemento separado por espacio o coma según el tipo de dato, o usar rangos.
 - El índice de un arreglo comienza en 0.
 - Para remover los elementos de un arreglo se usa el comando `sh unset arreglo[posocion]`
+
+
+## ¿Cómo usar la sentencia for loop?
+
+Se puede iterar un array, también se soporta la expresión.
+
+```sh
+for var in item1 item2 ...itemN
+do
+    statement1
+    statement2
+    ...
+    statementN
+done
+```
