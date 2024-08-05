@@ -76,3 +76,17 @@ Se usa el comando read de 2 maneras.
 - {n}.-Representa n veces de una expresión.
 - [ ] .- Representa un conjunto de caracteres, por ejemplo: [a-z] representa las letras del abecedario de la a a la z.
 
+
+## ¿Cómo usar las sentencias if, else if, else?
+
+```sh
+if [ condition ]; then
+    statement 1
+elif [ condition ]; then
+    statement 2
+else
+    statement 3
+fi
+```
+
+La condición usa operadores lógicos y operadores condicionales.
