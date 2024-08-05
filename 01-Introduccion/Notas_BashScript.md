@@ -60,3 +60,19 @@ Se usa el comando read de 2 maneras.
 
 - Utilizado en conjunto con el comando echo.
 - Utilizado directamente en el comando read.
+
+## ¿Cómo validar tamaños y tipo de dato en el ingreso de la información?
+
+- Para validar tamaños se usa el comando read -n<#_caracteres>
+- Para validar el tipo de datos se usan expresiones regulares.
+
+## RegEx
+
+
+- ^.- Caracter que representa el inicio de la expresión regular.
+- $.- Caracter que representa el final de la expresión regular.
+- *.- Caracter que representa cero o más ocurrencias de la expresión
+- +.- Caracter que representa una o más ocurrencias de la expresión.
+- {n}.-Representa n veces de una expresión.
+- [ ] .- Representa un conjunto de caracteres, por ejemplo: [a-z] representa las letras del abecedario de la a a la z.
+
