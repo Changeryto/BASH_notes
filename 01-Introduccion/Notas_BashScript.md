@@ -135,3 +135,24 @@ do
     statementN
 done
 ```
+
+## ¿Cómo se realizan los loops anidados?
+
+```sh
+for var in item1 item2 ...itemN
+do
+    for var2 in [A..Z]
+    do
+    statement1
+    ...
+    statementN
+    done
+done
+```
+
+## break y continue
+
+Igual a la funcionalidad en Python.
+
+- Usar la sentencia break para salir de la ejecución de los loops for, while (es decir para la iteración).
+- Usar la sentencia continue para saltar a la siguiente iteración.
