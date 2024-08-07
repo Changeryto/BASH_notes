@@ -1,2 +1,0 @@
-Valor escrito con echo
-Prueba de valores aniadidos con cat.
