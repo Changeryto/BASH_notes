@@ -156,3 +156,13 @@ Igual a la funcionalidad en Python.
 
 - Usar la sentencia break para salir de la ejecución de los loops for, while (es decir para la iteración).
 - Usar la sentencia continue para saltar a la siguiente iteración.
+
+## ¿Cómo se realiza un respaldo de información empaquetado y con clave de acceso?
+
+- Usando la herramienta zip.
+- Existen otras alternativas como GnuPG, bcrypt, 7zip, etc.
+
+## ¿Cómo transferir información por la red empaquetada?
+
+- Puede usarse rsync, comando que puede ser usado para sincronizar archivos y directorios de una localización a otra mientras minimiza la transferencia de datos.
+- Soporta características de compresión, encriptación, etc.
